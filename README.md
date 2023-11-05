@@ -19,7 +19,7 @@ We will perform the below tasks as part of this learning
 
 **Data Ingestion Tasks:**
 
-**Task 1**. Create an RDS instance in your AWS account and upload the data to the RDS instance (Note: Instructions on how to work with RDS can be found here.)
+**Task 1**. Create an RDS instance in your AWS account and upload the data to the RDS instance (Note: Instructions on how to work with RDS can be found here https://cdn.upgrad.com/uploads/production/08f82196-b083-426a-ab25-1eb052c43683/Documentation%2B-%2BWorking%2Bwith%2BRDS.pdf)
 
 Since the dataset is huge, you need to upload the data from only two files (i.e. yellow_tripdata_2017-01.csv & yellow_tripdata_2017-02.csv) from the dataset.
 
