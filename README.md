@@ -47,5 +47,5 @@ e) Calculate the average tips to revenue ratio of the drivers for different pick
  
 f) How does revenue vary over time? Calculate the average trip revenue per month - analysing it by hour of the day (day vs night) and the day of the week (weekday vs weekend).
  
-**NOTE:** It's recommended to use MRJob for completing the MapReduce taks above.
+**NOTE:** We will use MRJob for completing the MapReduce tasks above.
 
